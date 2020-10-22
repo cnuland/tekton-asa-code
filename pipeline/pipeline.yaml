@@ -2,7 +2,7 @@
 apiVersion: tekton.dev/v1beta1
 kind: Pipeline
 metadata:
-  name: tekton-asa-code
+  name: tekton-as-a-code
 spec:
   params:
     - name: application_id
